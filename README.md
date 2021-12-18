@@ -5,7 +5,9 @@ The Land-Water discrimination is done using the Morphological filtration which i
 Now the Binary image is obtained.Dilation and erosion method is used to accurately find out  the difference between land and water.
 Now the given dataset is processed by the  Neural Networks and Deep Learning and the threshold is estimated based on the given dataset which is used to differentiate Islands and Ships.
 Vector image of the identified Ship is obtained and perimeter and surface area of the Ship is evaluated.
-1.TOOLS - CONDA (PYTHON) 2.ALGORITHM- CA- CFAR METHOD  3.LIBRARY - OPENCV ,PIL , NUMPY,MATPLOTLIB
+1.TOOLS - CONDA (PYTHON) 
+2.ALGORITHM- CA- CFAR METHOD  
+3.LIBRARIES - OPENCV ,PIL , NUMPY,MATPLOTLIB
 
 
   
